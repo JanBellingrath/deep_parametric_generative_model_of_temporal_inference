@@ -1,0 +1,1 @@
+Accompanying code for the paper "The Emergence of the Subjective Temporal Now: The Self-Simulational Theory of Temporal Extension from the Perspective of the Free-Energy Principle" (Bellingrath, 2024)
