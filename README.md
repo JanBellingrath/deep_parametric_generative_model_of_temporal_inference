@@ -1,1 +1,1 @@
-Accompanying code for the paper "The Emergence of the Subjective Temporal Now: The Self-Simulational Theory of Temporal Extension from the Perspective of the Free-Energy Principle" (Bellingrath, 2024)
+Accompanying code for the paper "The emergence of the 'width' of subjective temporality: the self-simulational theory of temporal extension from the perspective of the free energy principle" (Bellingrath, 2024)
