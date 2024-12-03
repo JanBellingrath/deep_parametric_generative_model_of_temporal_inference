@@ -9,7 +9,7 @@ The self-simulational theory of temporal extension describes an information-theo
 An in-depth explanation of the generative model and specific architectural choices can be found in the paper (i.e. https://arxiv.org/abs/2404.12895). For an earlier version of SST, see also: https://academic.oup.com/nc/article/2023/1/niad015/7202197.
 
 
-# Probabilistic graphical model of the simulated parametric generative model: #
+# Probabilistic graphical model of the simulated deep parametric generative model: #
 <img width="1341" alt="image" src="https://github.com/JanBellingrath/deep_parametric_generative_model_of_temporal_inference/assets/87768982/b852b5ff-ed45-4095-952b-f2c8c3469bf4">
 
 # Generic two-level active inference scheme, illustrating hierarchical temporal inference over varying temporal domains 
