@@ -18,3 +18,6 @@ An in-depth explanation of the generative model and specific architectural choic
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ce62e716-c504-4e3f-8102-1e4a01509567">
 
+# For questions about the code or paper: #
+contact bellingrathjanerik@gmail.com
+
