@@ -120,7 +120,7 @@ for t in range(T - 2):
     if skip_counter > 0:
         skip_counter -= 1
 
-         if last_selected_t is None:
+        if last_selected_t is None:
             # should not happen in practice, but guard anyway
             B2 = B2a
             u2[t] = 0
