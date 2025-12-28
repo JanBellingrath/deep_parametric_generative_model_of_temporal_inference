@@ -2,7 +2,7 @@ Accompanying code for the paper:
 
 # The Self-Simulational Theory of temporal extension from the perspective of the Free Energy Principle #
 
-Abstract
+
 The self-simulational theory of temporal extension (SST) describes an information-theoretically formalized 
 mechanism by which the ‘width’ of subjective temporality emerges from the architecture of self-modelling. In this paper, the perspective of the free energy principle will be assumed, to cast the 
 emergence of subjective temporal extension from first principles of the physics of self-organization and to formalize subjective temporal extension using information geometry. Using active inference, a deep
