@@ -27,9 +27,6 @@ An in-depth explanation of the generative model and specific architectural choic
 # Probabilistic graphical model of the simulated deep parametric generative model: #
 <img width="1341" alt="image" src="https://github.com/JanBellingrath/deep_parametric_generative_model_of_temporal_inference/assets/87768982/b852b5ff-ed45-4095-952b-f2c8c3469bf4">
 
-# Generic two-level active inference scheme, illustrating hierarchical temporal inference over varying temporal domains 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b48af69e-878d-4c7e-aaf5-276f48330a7d">
-
 # For questions about the code or paper: #
 contact bellingrathjanerik@gmail.com
 
