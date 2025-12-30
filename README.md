@@ -1,6 +1,6 @@
 Accompanying code for the paper:
 
-# The self-simulational theory of temporal extension from the perspective of the free energy principle #
+# From self-organizing systems to subjective temporal extension#
 
 
 The self-simulational theory of temporal extension (SST) describes an information-theoretically formalized 
