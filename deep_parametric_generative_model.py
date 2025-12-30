@@ -270,7 +270,7 @@ action_at = np.full(T - 2, 0, dtype=int)
 n = min(len(action_tracker), T - 2)
 action_at[:n] = np.array(action_tracker[:n], dtype=int)
 
-# -------------------- (2) Palette F4 (Brighter but still Nature-ish) --------------------
+# -------------------- (2) Palette F4 --------------------
 PAL = {
     "p1": "#0A3D62",
     "p2": "#14919B",
