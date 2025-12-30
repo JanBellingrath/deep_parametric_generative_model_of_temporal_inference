@@ -1,6 +1,6 @@
 Accompanying code for the paper:
 
-# From self-organizing systems to subjective temporal extension#
+# From self-organizing systems to subjective temporal extension
 
 
 The self-simulational theory of temporal extension (SST) describes an information-theoretically formalized 
