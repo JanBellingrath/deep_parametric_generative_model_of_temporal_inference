@@ -104,7 +104,7 @@ for t in range(T - 2):
     AtC = 0.0
     for i in range(2):
         for j in range(2):
-            AtC += (O1bar[i, t] - A1bar[i, j]) * X1bar[j, t] * np.log(A1[i, j])
+            AtC += (O1bar[i, t] - A1bar[i, j]) * X1bar[j, t] * np.log(A1[i, j]) ### See "Uncertainty, epistemics and active inference" Parr, Friston.
 
     if AtC > betaA1m[0]:
         AtC = betaA1m[0] - 1e-5
